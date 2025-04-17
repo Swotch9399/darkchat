@@ -46,7 +46,7 @@ export default function Home() {
           </div>
 
           <div className="mt-16 mb-8">
-            <h1 className="header text-center">Metin Gönderme Uygulaması</h1>
+            <h1 className="header text-center">DarkChat</h1>
           </div>
 
           <form onSubmit={handleSubmit} className="flex flex-col md:flex-row gap-4">
